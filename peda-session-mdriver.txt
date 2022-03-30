@@ -1,0 +1,7 @@
+break * mm_malloc
+break * mm_realloc
+break * mm_free
+break * coalesce
+break * place
+break * extend_heap
+
